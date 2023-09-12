@@ -1,0 +1,4 @@
+prompt the user for height
+if given height is less than 1 or greater than 8 go back and ask again(do until the given height fall under the range(1-8))
+iterate from 1 to height
+on i iteration print (height-i) spaces and i hashes.
